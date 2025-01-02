@@ -1,1 +1,1 @@
-![Platform Demo](assets/infopercept-exp.webm)
+![INFOPERCEPT](assets\663b1a66def411e0461272af_Cybersecurity_Posture.svg)
